@@ -1,0 +1,310 @@
+[
+  {
+    "id": 1,
+    "category": "furniture",
+    "shortDescription": "wooden and fabric armchair",
+    "itemId": "antey",
+    "name": "Antey",
+    "price": 2900,
+    "images": [
+      "img/furniture/antey/1.jpeg",
+      "img/furniture/antey/2.jpeg",
+      "img/furniture/antey/3.jpeg",
+      "img/furniture/antey/4.jpeg"
+    ],
+    "description": [
+      {
+        "title": "Classic Elegance",
+        "text": "This wooden product epitomizes sophistication with its fine wood construction and impeccable finish. Whether it's a beautifully carved jewelry box or an ornate picture frame, this piece exudes timeless charm and refinement. The smooth surface highlights the natural beauty of the wood grain, while intricate detailing adds a touch of luxury."
+      },
+      {
+        "title": "Handcrafted Quality",
+        "text": "Each piece is handcrafted by skilled artisans who take pride in their work. The attention to detail is evident in every curve and line, making this product a true work of art. The quality craftsmanship ensures that this piece will last for generations to come, making it a treasured heirloom that can be passed down from one generation to the next."
+      },
+      {
+        "title": "Versatile Design",
+        "text": "This wooden product is designed to complement a variety of decor styles, from traditional to contemporary. Its classic elegance makes it a versatile piece that can be used in any room of the house. Whether it's displayed on a mantel, shelf, or table, this piece will add a touch of sophistication to any space. Its timeless design ensures that it will never go out of style, making it a wise investment for any home."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category": "furniture",
+    "shortDescription": "wooden and epoxy coffee table",
+    "itemId": "archipelago",
+    "name": "Archipelago",
+    "price": 2000,
+    "images": [
+      "img/furniture/archipelago/1.jpg",
+      "img/furniture/archipelago/2.jpg",
+      "img/furniture/archipelago/3.jpg",
+      "img/furniture/archipelago/4.jpg"
+    ],
+    "description": [
+      {
+        "title": "Perfect Gift",
+        "text": "This wooden product makes a thoughtful and elegant gift for any occasion. Whether it's a birthday, anniversary, wedding, or housewarming, this piece is sure to be appreciated by the recipient. Its classic design and fine craftsmanship make it a gift that will be treasured for years to come. Give the gift of timeless elegance with this beautiful wooden product."
+      },
+      {
+        "title": "Unmatched Beauty",
+        "text": "This wooden product is a true work of art that showcases the natural beauty of wood. Its rich tones and intricate detailing create a stunning visual impact that will enhance any space. Whether it's displayed on its own or used to hold treasured items, this piece is sure to be a focal point in any room. Add a touch of elegance to your home with this exquisite wooden product."
+      },
+      {
+        "title": "Timeless Appeal",
+        "text": "This wooden product has a timeless appeal that transcends trends and fads. Its classic design and fine craftsmanship ensure that it will never go out of style, making it a wise investment for any home. Whether it's displayed in a formal living room or a cozy den, this piece will add a touch of sophistication to any space. Elevate your decor with the timeless elegance of this beautiful wooden product."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "category": "furniture",
+    "shortDescription": "wood and leather chair",
+    "itemId": "aurora",
+    "name": "Aurora",
+    "price": 2500,
+    "images": [
+      "img/furniture/aurora/1.jpg",
+      "img/furniture/aurora/2.jpeg",
+      "img/furniture/aurora/3.jpeg",
+      "img/furniture/aurora/4.jpeg"
+    ],
+    "description": [
+      {
+        "title": "Timeless Appeal",
+        "text": "This wooden product has a timeless appeal that transcends trends and fads. Its classic design and fine craftsmanship ensure that it will never go out of style, making it a wise investment for any home. Whether it's displayed in a formal living room or a cozy den, this piece will add a touch of sophistication to any space. Elevate your decor with the timeless elegance of this beautiful wooden product."
+      },
+      {
+        "title": "Elegant Style",
+        "text": "This wooden product exudes elegance and sophistication with its classic design and fine craftsmanship. Its rich tones and intricate detailing create a stunning visual impact that will enhance any space. Whether it's displayed on a mantel, shelf, or table, this piece will add a touch of luxury to your home. Elevate your decor with the timeless beauty of this exquisite wooden product."
+      },
+      {
+        "title": "Luxurious Finish",
+        "text": "This wooden product is finished to perfection, with a smooth surface that highlights the natural beauty of the wood grain. Its rich tones and intricate detailing create a luxurious look that will enhance any space. Whether it's displayed on its own or used to hold treasured items, this piece is sure to be a focal point in any room. Add a touch of elegance to your home with this exquisite wooden product."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "category": "furniture",
+    "shortDescription": "wood and epoxy table",
+    "itemId": "babylon",
+    "name": "Babylon",
+    "price": 3800,
+    "images": [
+      "img/furniture/babylon/1.jpeg",
+      "img/furniture/babylon/2.jpeg",
+      "img/furniture/babylon/3.jpeg",
+      "img/furniture/babylon/4.jpeg"
+    ],
+    "description": [
+      {
+        "title": "Luxurious Finish",
+        "text": "This wooden product is finished to perfection, with a smooth surface that highlights the natural beauty of the wood grain. Its rich tones and intricate detailing create a luxurious look that will enhance any space. Whether it's displayed on its own or used to hold treasured items, this piece is sure to be a focal point in any room. Add a touch of elegance to your home with this exquisite wooden product."
+      },
+      {
+        "title": "Fine Craftsmanship",
+        "text": "This wooden product is crafted with care and precision by skilled artisans who take pride in their work. The attention to detail is evident in every curve and line, making this piece a true work of art. The quality craftsmanship ensures that this piece will last for generations to come, making it a treasured heirloom that can be passed down from one generation to the next."
+      },
+      {
+        "title": "Versatile Design",
+        "text": "This wooden product is designed to complement a variety of decor styles, from traditional to contemporary. Its classic elegance makes it a versatile piece that can be used in any room of the house. Whether it's displayed on a mantel, shelf, or table, this piece will add a touch of sophistication to any space. Its timeless design ensures that it will never go out of style, making it a wise investment for any home."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "category": "furniture",
+    "shortDescription": "wood and epoxy coffee table",
+    "itemId": "calvia",
+    "name": "Calvia",
+    "price": 4300,
+    "images": [
+      "img/furniture/calvia/1.jpeg",
+      "img/furniture/calvia/2.jpeg",
+      "img/furniture/calvia/3.jpeg",
+      "img/furniture/calvia/4.jpeg"
+    ],
+    "description": [
+      {
+        "title": "Rustic Charm",
+        "text": "Infused with the rugged beauty of nature, this handcrafted wooden product brings rustic allure to any setting. Picture a sturdy farmhouse dining table or a cozy log-inspired bookshelf. Each piece is unique, showcasing the knots, grains, and imperfections that make it truly one-of-a-kind. Its earthy tones and rough-hewn texture create a warm and inviting atmosphere wherever it's placed."
+      },
+      {
+        "title": "Natural Beauty",
+        "text": "Revel in the organic elegance of this wooden product, which celebrates the innate beauty of woodgrain patterns. From sleek cutting boards to elegant serving trays, each item is a work of art, showcasing nature's intricate designs. No two pieces are alike, as the wood's natural variations create a mesmerizing tapestry of textures and tones."
+      },
+      {
+        "title": "Artisanal Craftsmanship",
+        "text": "Imbued with the skill and passion of master craftsmen, this wooden product is a testament to traditional techniques and attention to detail. Whether it's a finely carved sculpture or an intricately inlaid box, every aspect of its creation reflects meticulous care and expertise. Handcrafted with precision, it embodies the timeless artistry of woodworking."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "category": "furniture",
+    "shortDescription": "wood office desk",
+    "itemId": "congur",
+    "name": "Congur",
+    "price": 5900,
+    "images": [
+      "img/furniture/congur/1.jpeg",
+      "img/furniture/congur/2.jpeg",
+      "img/furniture/congur/3.jpeg",
+      "img/furniture/congur/4.jpeg"
+    ],
+    "description":[
+      {
+        "title": "Rustic Charm",
+        "text": "Infused with the rugged beauty of nature, this handcrafted wooden product brings rustic allure to any setting. Picture a sturdy farmhouse dining table or a cozy log-inspired bookshelf. Each piece is unique, showcasing the knots, grains, and imperfections that make it truly one-of-a-kind. Its earthy tones and rough-hewn texture create a warm and inviting atmosphere wherever it's placed."
+      },
+      {
+        "title": "Luxurious Finish",
+        "text": "This wooden product is finished to perfection, with a smooth surface that highlights the natural beauty of the wood grain. Its rich tones and intricate detailing create a luxurious look that will enhance any space. Whether it's displayed on its own or used to hold treasured items, this piece is sure to be a focal point in any room. Add a touch of elegance to your home with this exquisite wooden product."
+      },
+      {
+        "title": "Artisanal Craftsmanship",
+        "text": "Imbued with the skill and passion of master craftsmen, this wooden product is a testament to traditional techniques and attention to detail. Whether it's a finely carved sculpture or an intricately inlaid box, every aspect of its creation reflects meticulous care and expertise. Handcrafted with precision, it embodies the timeless artistry of woodworking."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "category": "furniture",
+    "shortDescription": "wood and epoxy сoffee table",
+    "itemId": "elegy",
+    "name": "Elegy",
+    "price": 4300,
+    "images": [
+      "img/furniture/elegy/1.jpeg",
+      "img/furniture/elegy/2.jpeg",
+      "img/furniture/elegy/3.jpeg",
+      "img/furniture/elegy/4.jpeg"
+    ],
+    "description":[
+      {
+        "title": "Luxurious Finish",
+        "text": "This wooden product is finished to perfection, with a smooth surface that highlights the natural beauty of the wood grain. Its rich tones and intricate detailing create a luxurious look that will enhance any space. Whether it's displayed on its own or used to hold treasured items, this piece is sure to be a focal point in any room. Add a touch of elegance to your home with this exquisite wooden product."
+      },
+      {
+        "title": "Fine Craftsmanship",
+        "text": "This wooden product is crafted with care and precision by skilled artisans who take pride in their work. The attention to detail is evident in every curve and line, making this piece a true work of art. The quality craftsmanship ensures that this piece will last for generations to come, making it a treasured heirloom that can be passed down from one generation to the next."
+      },
+      {
+        "title": "Versatile Design",
+        "text": "This wooden product is designed to complement a variety of decor styles, from traditional to contemporary. Its classic elegance makes it a versatile piece that can be used in any room of the house. Whether it's displayed on a mantel, shelf, or table, this piece will add a touch of sophistication to any space. Its timeless design ensures that it will never go out of style, making it a wise investment for any home."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "category": "furniture",
+    "shortDescription": "wood and epoxy cabinet",
+    "itemId": "greenwich",
+    "name": "Greenwich",
+    "price": 6800,
+    "images": [
+      "img/furniture/greenwich/1.jpeg",
+      "img/furniture/greenwich/2.jpeg",
+      "img/furniture/greenwich/3.jpeg",
+      "img/furniture/greenwich/4.jpeg"
+    ],
+    "description":[
+      {
+        "title": "Luxurious Finish",
+        "text": "This wooden product is finished to perfection, with a smooth surface that highlights the natural beauty of the wood grain. Its rich tones and intricate detailing create a luxurious look that will enhance any space. Whether it's displayed on its own or used to hold treasured items, this piece is sure to be a focal point in any room. Add a touch of elegance to your home with this exquisite wooden product."
+      },
+      {
+        "title": "Fine Craftsmanship",
+        "text": "This wooden product is crafted with care and precision by skilled artisans who take pride in their work. The attention to detail is evident in every curve and line, making this piece a true work of art. The quality craftsmanship ensures that this piece will last for generations to come, making it a treasured heirloom that can be passed down from one generation to the next."
+      },
+      {
+        "title": "Versatile Design",
+        "text": "This wooden product is designed to complement a variety of decor styles, from traditional to contemporary. Its classic elegance makes it a versatile piece that can be used in any room of the house. Whether it's displayed on a mantel, shelf, or table, this piece will add a touch of sophistication to any space. Its timeless design ensures that it will never go out of style, making it a wise investment for any home."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "category": "furniture",
+    "shortDescription": "wood and epoxy bedside table",
+    "itemId": "nevada",
+    "name": "Nevada",
+    "price": 3000,
+    "images": [
+      "img/furniture/nevada/1.jpeg",
+      "img/furniture/nevada/2.jpeg",
+      "img/furniture/nevada/3.jpeg",
+      "img/furniture/nevada/4.jpeg"
+    ],
+    "description":[
+      {
+        "title": "Rustic Charm",
+        "text": "Infused with the rugged beauty of nature, this handcrafted wooden product brings rustic allure to any setting. Picture a sturdy farmhouse dining table or a cozy log-inspired bookshelf. Each piece is unique, showcasing the knots, grains, and imperfections that make it truly one-of-a-kind. Its earthy tones and rough-hewn texture create a warm and inviting atmosphere wherever it's placed."
+      },
+      {
+        "title": "Natural Beauty",
+        "text": "Revel in the organic elegance of this wooden product, which celebrates the innate beauty of woodgrain patterns. From sleek cutting boards to elegant serving trays, each item is a work of art, showcasing nature's intricate designs. No two pieces are alike, as the wood's natural variations create a mesmerizing tapestry of textures and tones."
+      },
+      {
+        "title": "Artisanal Craftsmanship",
+        "text": "Imbued with the skill and passion of master craftsmen, this wooden product is a testament to traditional techniques and attention to detail. Whether it's a finely carved sculpture or an intricately inlaid box, every aspect of its creation reflects meticulous care and expertise. Handcrafted with precision, it embodies the timeless artistry of woodworking."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "category": "furniture",
+    "shortDescription": "wood and epoxy coffee tables",
+    "itemId": "tango",
+    "name": "Tango",
+    "price": 7050,
+    "images": [
+      "img/furniture/tango/1.jpeg",
+      "img/furniture/tango/2.jpeg",
+      "img/furniture/tango/3.jpeg",
+      "img/furniture/tango/4.jpeg"
+    ],
+    "description":[
+      {
+        "title": "Luxurious Finish",
+        "text": "This wooden product is finished to perfection, with a smooth surface that highlights the natural beauty of the wood grain. Its rich tones and intricate detailing create a luxurious look that will enhance any space. Whether it's displayed on its own or used to hold treasured items, this piece is sure to be a focal point in any room. Add a touch of elegance to your home with this exquisite wooden product."
+      },
+      {
+        "title": "Fine Craftsmanship",
+        "text": "This wooden product is crafted with care and precision by skilled artisans who take pride in their work. The attention to detail is evident in every curve and line, making this piece a true work of art. The quality craftsmanship ensures that this piece will last for generations to come, making it a treasured heirloom that can be passed down from one generation to the next."
+      },
+      {
+        "title": "Versatile Design",
+        "text": "This wooden product is designed to complement a variety of decor styles, from traditional to contemporary. Its classic elegance makes it a versatile piece that can be used in any room of the house. Whether it's displayed on a mantel, shelf, or table, this piece will add a touch of sophistication to any space. Its timeless design ensures that it will never go out of style, making it a wise investment for any home."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "category": "furniture",
+    "itemId": "tuskany",
+    "shortDescription": "wood and epoxy coffee table",
+    "name": "Tuskany",
+    "price": 5400,
+    "images": [
+      "img/furniture/tuskany/1.jpeg",
+      "img/furniture/tuskany/2.jpeg",
+      "img/furniture/tuskany/3.jpeg",
+      "img/furniture/tuskany/4.jpeg"
+    ],
+    "description":[
+      {
+        "title": "Luxurious Finish",
+        "text": "This wooden product is finished to perfection, with a smooth surface that highlights the natural beauty of the wood grain. Its rich tones and intricate detailing create a luxurious look that will enhance any space. Whether it's displayed on its own or used to hold treasured items, this piece is sure to be a focal point in any room. Add a touch of elegance to your home with this exquisite wooden product."
+      },
+      {
+        "title": "Fine Craftsmanship",
+        "text": "This wooden product is crafted with care and precision by skilled artisans who take pride in their work. The attention to detail is evident in every curve and line, making this piece a true work of art. The quality craftsmanship ensures that this piece will last for generations to come, making it a treasured heirloom that can be passed down from one generation to the next."
+      },
+      {
+        "title": "Versatile Design",
+        "text": "This wooden product is designed to complement a variety of decor styles, from traditional to contemporary. Its classic elegance makes it a versatile piece that can be used in any room of the house. Whether it's displayed on a mantel, shelf, or table, this piece will add a touch of sophistication to any space. Its timeless design ensures that it will never go out of style, making it a wise investment for any home."
+      }
+    ]
+  }
+]
