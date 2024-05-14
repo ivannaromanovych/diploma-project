@@ -2,7 +2,7 @@
   "name": "catalog",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://fe-jul23-LGTM.github.io/catalog",
+  "homepage": "https://ivannaromanovych.github.io/diploma-project",
   "type": "module",
   "scripts": {
     "dev": "vite",
