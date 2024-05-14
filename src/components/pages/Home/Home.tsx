@@ -17,7 +17,7 @@ export const Home: FC<THomeProps> = () => {
       <ShopByCategory />
       <ProductsSlider
         sliderName="Hot prices"
-        productsList={products.slice(0, 10)}
+        productsList={[...products].sort((a, b) => a.price - b.price).slice(0, 10)}
       />
     </>
   );
