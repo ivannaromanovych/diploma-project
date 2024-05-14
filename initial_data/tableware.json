@@ -1,0 +1,279 @@
+[
+  {
+    "id": 13,
+    "category": "tableware",
+    "itemId": "alose",
+    "name": "Alose",
+    "price": 2200,
+    "shortDescription": "set of bowls",
+    "images": [
+      "img/tableware/alose/1.jpeg",
+      "img/tableware/alose/2.jpg",
+      "img/tableware/alose/3.jpg"
+    ],
+    "description": [
+      {
+        "title": "Rustic Charm",
+        "text": "Infused with the rugged beauty of nature, this handcrafted wooden product brings rustic allure to any setting. Picture a sturdy farmhouse dining table or a cozy log-inspired bookshelf. Each piece is unique, showcasing the knots, grains, and imperfections that make it truly one-of-a-kind. Its earthy tones and rough-hewn texture create a warm and inviting atmosphere wherever it's placed."
+      },
+      {
+        "title": "Natural Beauty",
+        "text": "Revel in the organic elegance of this wooden product, which celebrates the innate beauty of woodgrain patterns. From sleek cutting boards to elegant serving trays, each item is a work of art, showcasing nature's intricate designs. No two pieces are alike, as the wood's natural variations create a mesmerizing tapestry of textures and tones."
+      },
+      {
+        "title": "Artisanal Craftsmanship",
+        "text": "Imbued with the skill and passion of master craftsmen, this wooden product is a testament to traditional techniques and attention to detail. Whether it's a finely carved sculpture or an intricately inlaid box, every aspect of its creation reflects meticulous care and expertise. Handcrafted with precision, it embodies the timeless artistry of woodworking."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "category": "tableware",
+    "itemId": "beaufort",
+    "name": "Beaufort",
+    "shortDescription": "wood and epoxy epoxy board",
+    "price": 1200,
+    "images": [
+      "img/tableware/beaufort/1.jpeg",
+      "img/tableware/beaufort/2.jpeg",
+      "img/tableware/beaufort/3.jpeg",
+      "img/tableware/beaufort/4.jpeg"
+    ],
+    "description": [
+      {
+        "title": "Rustic Charm",
+        "text": "Infused with the rugged beauty of nature, this handcrafted wooden product brings rustic allure to any setting. Picture a sturdy farmhouse dining table or a cozy log-inspired bookshelf. Each piece is unique, showcasing the knots, grains, and imperfections that make it truly one-of-a-kind. Its earthy tones and rough-hewn texture create a warm and inviting atmosphere wherever it's placed."
+      },
+      {
+        "title": "Natural Beauty",
+        "text": "Revel in the organic elegance of this wooden product, which celebrates the innate beauty of woodgrain patterns. From sleek cutting boards to elegant serving trays, each item is a work of art, showcasing nature's intricate designs. No two pieces are alike, as the wood's natural variations create a mesmerizing tapestry of textures and tones."
+      },
+      {
+        "title": "Artisanal Craftsmanship",
+        "text": "Imbued with the skill and passion of master craftsmen, this wooden product is a testament to traditional techniques and attention to detail. Whether it's a finely carved sculpture or an intricately inlaid box, every aspect of its creation reflects meticulous care and expertise. Handcrafted with precision, it embodies the timeless artistry of woodworking."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "category": "tableware",
+    "itemId": "chieftain",
+    "name": "Chieftain",
+    "shortDescription": "wood and epoxy epoxy stand",
+    "price": 1800,
+    "images": [
+      "img/tableware/chieftain/1.jpeg",
+      "img/tableware/chieftain/2.jpeg",
+      "img/tableware/chieftain/3.jpeg",
+      "img/tableware/chieftain/4.jpeg"
+    ],
+    "description": [
+      {
+        "title": "Rustic Charm",
+        "text": "Infused with the rugged beauty of nature, this handcrafted wooden product brings rustic allure to any setting. Picture a sturdy farmhouse dining table or a cozy log-inspired bookshelf. Each piece is unique, showcasing the knots, grains, and imperfections that make it truly one-of-a-kind. Its earthy tones and rough-hewn texture create a warm and inviting atmosphere wherever it's placed."
+      },
+      {
+        "title": "Natural Beauty",
+        "text": "Revel in the organic elegance of this wooden product, which celebrates the innate beauty of woodgrain patterns. From sleek cutting boards to elegant serving trays, each item is a work of art, showcasing nature's intricate designs. No two pieces are alike, as the wood's natural variations create a mesmerizing tapestry of textures and tones."
+      },
+      {
+        "title": "Artisanal Craftsmanship",
+        "text": "Imbued with the skill and passion of master craftsmen, this wooden product is a testament to traditional techniques and attention to detail. Whether it's a finely carved sculpture or an intricately inlaid box, every aspect of its creation reflects meticulous care and expertise. Handcrafted with precision, it embodies the timeless artistry of woodworking."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "category": "tableware",
+    "shortDescription": "set of wooden utensilts",
+    "itemId": "decopal",
+    "name": "Decopal",
+    "price": 1150,
+    "images": [
+      "img/tableware/decopal/1.jpg",
+      "img/tableware/decopal/2.jpg",
+      "img/tableware/decopal/3.jpg",
+      "img/tableware/decopal/4.jpeg"
+    ],
+    "description": [
+      {
+        "title": "Rustic Charm",
+        "text": "Infused with the rugged beauty of nature, this handcrafted wooden product brings rustic allure to any setting. Picture a sturdy farmhouse dining table or a cozy log-inspired bookshelf. Each piece is unique, showcasing the knots, grains, and imperfections that make it truly one-of-a-kind. Its earthy tones and rough-hewn texture create a warm and inviting atmosphere wherever it's placed."
+      },
+      {
+        "title": "Natural Beauty",
+        "text": "Revel in the organic elegance of this wooden product, which celebrates the innate beauty of woodgrain patterns. From sleek cutting boards to elegant serving trays, each item is a work of art, showcasing nature's intricate designs. No two pieces are alike, as the wood's natural variations create a mesmerizing tapestry of textures and tones."
+      },
+      {
+        "title": "Artisanal Craftsmanship",
+        "text": "Imbued with the skill and passion of master craftsmen, this wooden product is a testament to traditional techniques and attention to detail. Whether it's a finely carved sculpture or an intricately inlaid box, every aspect of its creation reflects meticulous care and expertise. Handcrafted with precision, it embodies the timeless artistry of woodworking."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "category": "tableware",
+    "itemId": "honeycomb",
+    "name": "Honeycomb",
+    "price": 1700,
+    "shortDescription": "serving tray",
+    "images": [
+      "img/tableware/honeycomb/1.jpeg",
+      "img/tableware/honeycomb/2.jpeg",
+      "img/tableware/honeycomb/3.jpeg",
+      "img/tableware/honeycomb/4.jpeg"
+    ],
+    "description": [
+      {
+        "title": "Rustic Charm",
+        "text": "Infused with the rugged beauty of nature, this handcrafted wooden product brings rustic allure to any setting. Picture a sturdy farmhouse dining table or a cozy log-inspired bookshelf. Each piece is unique, showcasing the knots, grains, and imperfections that make it truly one-of-a-kind. Its earthy tones and rough-hewn texture create a warm and inviting atmosphere wherever it's placed."
+      },
+      {
+        "title": "Natural Beauty",
+        "text": "Revel in the organic elegance of this wooden product, which celebrates the innate beauty of woodgrain patterns. From sleek cutting boards to elegant serving trays, each item is a work of art, showcasing nature's intricate designs. No two pieces are alike, as the wood's natural variations create a mesmerizing tapestry of textures and tones."
+      },
+      {
+        "title": "Artisanal Craftsmanship",
+        "text": "Imbued with the skill and passion of master craftsmen, this wooden product is a testament to traditional techniques and attention to detail. Whether it's a finely carved sculpture or an intricately inlaid box, every aspect of its creation reflects meticulous care and expertise. Handcrafted with precision, it embodies the timeless artistry of woodworking."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "category": "tableware",
+    "itemId": "nayaab",
+    "shortDescription": "set of plates",
+    "name": "Nayaab",
+    "price": 2100,
+    "images": [
+      "img/tableware/nayaab/1.jpg",
+      "img/tableware/nayaab/2.jpg",
+      "img/tableware/nayaab/3.jpg",
+      "img/tableware/nayaab/4.jpg"
+    ],
+    "description": [
+      {
+        "title": "Rustic Charm",
+        "text": "Infused with the rugged beauty of nature, this handcrafted wooden product brings rustic allure to any setting. Picture a sturdy farmhouse dining table or a cozy log-inspired bookshelf. Each piece is unique, showcasing the knots, grains, and imperfections that make it truly one-of-a-kind. Its earthy tones and rough-hewn texture create a warm and inviting atmosphere wherever it's placed."
+      },
+      {
+        "title": "Natural Beauty",
+        "text": "Revel in the organic elegance of this wooden product, which celebrates the innate beauty of woodgrain patterns. From sleek cutting boards to elegant serving trays, each item is a work of art, showcasing nature's intricate designs. No two pieces are alike, as the wood's natural variations create a mesmerizing tapestry of textures and tones."
+      },
+      {
+        "title": "Artisanal Craftsmanship",
+        "text": "Imbued with the skill and passion of master craftsmen, this wooden product is a testament to traditional techniques and attention to detail. Whether it's a finely carved sculpture or an intricately inlaid box, every aspect of its creation reflects meticulous care and expertise. Handcrafted with precision, it embodies the timeless artistry of woodworking."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "category": "tableware",
+    "itemId": "nectarus",
+    "shortDescription": "wood and epoxy case for bottles",
+    "name": "Nectarus",
+    "price": 1100,
+    "images": [
+      "img/tableware/nectarus/1.jpeg",
+      "img/tableware/nectarus/2.jpeg",
+      "img/tableware/nectarus/3.jpeg",
+      "img/tableware/nectarus/4.jpeg"
+    ],
+    "description": [
+      {
+        "title": "Rustic Charm",
+        "text": "Infused with the rugged beauty of nature, this handcrafted wooden product brings rustic allure to any setting. Picture a sturdy farmhouse dining table or a cozy log-inspired bookshelf. Each piece is unique, showcasing the knots, grains, and imperfections that make it truly one-of-a-kind. Its earthy tones and rough-hewn texture create a warm and inviting atmosphere wherever it's placed."
+      },
+      {
+        "title": "Natural Beauty",
+        "text": "Revel in the organic elegance of this wooden product, which celebrates the innate beauty of woodgrain patterns. From sleek cutting boards to elegant serving trays, each item is a work of art, showcasing nature's intricate designs. No two pieces are alike, as the wood's natural variations create a mesmerizing tapestry of textures and tones."
+      },
+      {
+        "title": "Artisanal Craftsmanship",
+        "text": "Imbued with the skill and passion of master craftsmen, this wooden product is a testament to traditional techniques and attention to detail. Whether it's a finely carved sculpture or an intricately inlaid box, every aspect of its creation reflects meticulous care and expertise. Handcrafted with precision, it embodies the timeless artistry of woodworking."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "category": "tableware",
+    "itemId": "peaceful-sky",
+    "shortDescription": "wooden stand for knives",
+    "name": "Peaceful Sky",
+    "price": 700,
+    "images": [
+      "img/tableware/peaceful-sky/1.jpeg",
+      "img/tableware/peaceful-sky/2.jpeg",
+      "img/tableware/peaceful-sky/3.jpeg"
+    ],
+    "description": [
+      {
+        "title": "Rustic Charm",
+        "text": "Infused with the rugged beauty of nature, this handcrafted wooden product brings rustic allure to any setting. Picture a sturdy farmhouse dining table or a cozy log-inspired bookshelf. Each piece is unique, showcasing the knots, grains, and imperfections that make it truly one-of-a-kind. Its earthy tones and rough-hewn texture create a warm and inviting atmosphere wherever it's placed."
+      },
+      {
+        "title": "Natural Beauty",
+        "text": "Revel in the organic elegance of this wooden product, which celebrates the innate beauty of woodgrain patterns. From sleek cutting boards to elegant serving trays, each item is a work of art, showcasing nature's intricate designs. No two pieces are alike, as the wood's natural variations create a mesmerizing tapestry of textures and tones."
+      },
+      {
+        "title": "Artisanal Craftsmanship",
+        "text": "Imbued with the skill and passion of master craftsmen, this wooden product is a testament to traditional techniques and attention to detail. Whether it's a finely carved sculpture or an intricately inlaid box, every aspect of its creation reflects meticulous care and expertise. Handcrafted with precision, it embodies the timeless artistry of woodworking."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "category": "tableware",
+    "itemId": "satori",
+    "name": "Satori",
+    "shortDescription": "decorative plate",
+    "price": 800,
+    "images": [
+      "img/tableware/satori/1.jpeg",
+      "img/tableware/satori/2.jpeg",
+      "img/tableware/satori/3.jpeg"
+    ],
+    "description": [
+      {
+        "title": "Rustic Charm",
+        "text": "Infused with the rugged beauty of nature, this handcrafted wooden product brings rustic allure to any setting. Picture a sturdy farmhouse dining table or a cozy log-inspired bookshelf. Each piece is unique, showcasing the knots, grains, and imperfections that make it truly one-of-a-kind. Its earthy tones and rough-hewn texture create a warm and inviting atmosphere wherever it's placed."
+      },
+      {
+        "title": "Natural Beauty",
+        "text": "Revel in the organic elegance of this wooden product, which celebrates the innate beauty of woodgrain patterns. From sleek cutting boards to elegant serving trays, each item is a work of art, showcasing nature's intricate designs. No two pieces are alike, as the wood's natural variations create a mesmerizing tapestry of textures and tones."
+      },
+      {
+        "title": "Artisanal Craftsmanship",
+        "text": "Imbued with the skill and passion of master craftsmen, this wooden product is a testament to traditional techniques and attention to detail. Whether it's a finely carved sculpture or an intricately inlaid box, every aspect of its creation reflects meticulous care and expertise. Handcrafted with precision, it embodies the timeless artistry of woodworking."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "shortDescription": "set of wood and epoxy coasters",
+    "category": "tableware",
+    "itemId": "wabi-sabi",
+    "name": "Wabi-sabi",
+    "price": 900,
+    "images": [
+      "img/tableware/wabi-sabi/1.jpeg",
+      "img/tableware/wabi-sabi/2.jpeg",
+      "img/tableware/wabi-sabi/3.jpeg",
+      "img/tableware/wabi-sabi/4.jpeg"
+    ],
+    "description": [
+      {
+        "title": "Rustic Charm",
+        "text": "Infused with the rugged beauty of nature, this handcrafted wooden product brings rustic allure to any setting. Picture a sturdy farmhouse dining table or a cozy log-inspired bookshelf. Each piece is unique, showcasing the knots, grains, and imperfections that make it truly one-of-a-kind. Its earthy tones and rough-hewn texture create a warm and inviting atmosphere wherever it's placed."
+      },
+      {
+        "title": "Natural Beauty",
+        "text": "Revel in the organic elegance of this wooden product, which celebrates the innate beauty of woodgrain patterns. From sleek cutting boards to elegant serving trays, each item is a work of art, showcasing nature's intricate designs. No two pieces are alike, as the wood's natural variations create a mesmerizing tapestry of textures and tones."
+      },
+      {
+        "title": "Artisanal Craftsmanship",
+        "text": "Imbued with the skill and passion of master craftsmen, this wooden product is a testament to traditional techniques and attention to detail. Whether it's a finely carved sculpture or an intricately inlaid box, every aspect of its creation reflects meticulous care and expertise. Handcrafted with precision, it embodies the timeless artistry of woodworking."
+      }
+    ]
+  }
+]

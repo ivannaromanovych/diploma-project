@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "category": "furniture",
+    "shortDescription": "wooden and fabric armchair",
+    "itemId": "antey",
+    "name": "Antey",
+    "price": 2900,
+    "image": "img/furniture/antey/1.jpeg"
+  },
+  {
+    "id": 2,
+    "category": "furniture",
+    "shortDescription": "wooden and epoxy coffee table",
+    "itemId": "archipelago",
+    "name": "Archipelago",
+    "price": 2000,
+    "image": "img/furniture/archipelago/1.jpg"
+  },
+  {
+    "id": 3,
+    "category": "furniture",
+    "shortDescription": "wooden and leather chair",
+    "itemId": "aurora",
+    "name": "Aurora",
+    "price": 2500,
+    "image": "img/furniture/aurora/1.jpg"
+  },
+  {
+    "id": 4,
+    "category": "furniture",
+    "shortDescription": "wood and epoxy table",
+    "itemId": "babylon",
+    "name": "Babylon",
+    "price": 3800,
+    "image": "img/furniture/babylon/1.jpeg"
+  },
+  {
+    "id": 5,
+    "category": "furniture",
+    "shortDescription": "wood and epoxy coffee table",
+    "itemId": "calvia",
+    "name": "Calvia",
+    "price": 4300,
+    "image": "img/furniture/calvia/1.jpeg"
+  },
+  {
+    "id": 6,
+    "category": "furniture",
+    "shortDescription": "wood office desk",
+    "itemId": "congur",
+    "name": "Congur",
+    "price": 5900,
+    "image": "img/furniture/congur/1.jpeg"
+  },
+  {
+    "id": 7,
+    "category": "decor",
+    "itemId": "darum",
+    "shortDescription": "wood and epoxy box for jewerly",
+    "name": "Darum",
+    "price": 1700,
+    "image": "img/decor/darum/1.jpeg"
+  },
+  {
+    "id": 8,
+    "category": "furniture",
+    "shortDescription": "wood and epoxy сoffee table",
+    "itemId": "elegy",
+    "name": "Elegy",
+    "price": 4300,
+    "image": "img/furniture/elegy/1.jpeg"
+  },
+  {
+    "id": 9,
+    "category": "furniture",
+    "shortDescription": "wood and epoxy cabinet",
+    "itemId": "greenwich",
+    "name": "Greenwich",
+    "price": 6800,
+    "image": "img/furniture/greenwich/1.jpeg"
+  },
+  {
+    "id": 10,
+    "category": "furniture",
+    "shortDescription": "wood and epoxy bedside table",
+    "itemId": "nevada",
+    "name": "Nevada",
+    "price": 3000,
+    "image": "img/furniture/nevada/1.jpeg"
+  },
+  {
+    "id": 11,
+    "category": "furniture",
+    "shortDescription": "wood and epoxy coffee tables",
+    "itemId": "tango",
+    "name": "Tango",
+    "price": 7050,
+    "image": "img/furniture/tango/1.jpeg"
+  },
+  {
+    "id": 12,
+    "category": "furniture",
+    "itemId": "tuskany",
+    "shortDescription": "wood and epoxy coffee table",
+    "name": "Tuskany",
+    "price": 5400,
+    "image": "img/furniture/tuskany/1.jpeg"
+  },
+  {
+    "id": 13,
+    "category": "tableware",
+    "itemId": "alose",
+    "name": "Alose",
+    "price": 2200,
+    "shortDescription": "set of bowls",
+    "image": "img/tableware/alose/2.jpg"
+  },
+  {
+    "id": 14,
+    "category": "tableware",
+    "itemId": "beaufort",
+    "name": "Beaufort",
+    "shortDescription": "wood and epoxy epoxy board",
+    "price": 1200,
+    "image": "img/tableware/beaufort/1.jpeg"
+  },
+  {
+    "id": 15,
+    "category": "tableware",
+    "itemId": "chieftain",
+    "name": "Chieftain",
+    "shortDescription": "wood and epoxy epoxy stand",
+    "price": 1800,
+    "image": "img/tableware/chieftain/1.jpeg"
+  },
+  {
+    "id": 16,
+    "category": "tableware",
+    "shortDescription": "set of wooden utensilts",
+    "itemId": "decopal",
+    "name": "Decopal",
+    "price": 1150,
+    "image": "img/tableware/decopal/1.jpg"
+  },
+  {
+    "id": 17,
+    "category": "tableware",
+    "itemId": "honeycomb",
+    "name": "Honeycomb",
+    "price": 1700,
+    "shortDescription": "serving tray",
+    "image": "img/tableware/honeycomb/1.jpeg"
+  },
+  {
+    "id": 18,
+    "category": "tableware",
+    "itemId": "nayaab",
+    "shortDescription": "set of plates",
+    "name": "Nayaab",
+    "price": 2100,
+    "image": "img/tableware/nayaab/1.jpg"
+  },
+  {
+    "id": 19,
+    "category": "tableware",
+    "itemId": "nectarus",
+    "shortDescription": "wood and epoxy case for bottles",
+    "name": "Nectarus",
+    "price": 1100,
+    "image": "img/tableware/nectarus/1.jpeg"
+  },
+  {
+    "id": 20,
+    "category": "tableware",
+    "itemId": "peaceful-sky",
+    "shortDescription": "wooden stand for knives",
+    "name": "Peaceful Sky",
+    "price": 700,
+    "image": "img/tableware/peaceful-sky/1.jpeg"
+  },
+  {
+    "id": 21,
+    "category": "tableware",
+    "itemId": "satori",
+    "name": "Satori",
+    "shortDescription": "decorative plate",
+    "price": 800,
+    "image": "img/tableware/satori/1.jpeg"
+  },
+  {
+    "id": 22,
+    "shortDescription": "set of wood and epoxy coasters",
+    "category": "tableware",
+    "itemId": "wabi-sabi",
+    "name": "Wabi-sabi",
+    "price": 900,
+    "image": "img/tableware/wabi-sabi/1.jpeg"
+  },
+  {
+    "id": 23,
+    "category": "decor",
+    "itemId": "continuum",
+    "shortDescription": "wood and epoxy wall clock",
+    "name": "Continuum",
+    "price": 1000,
+    "image": "img/decor/continuum/1.jpeg"
+  },
+  {
+    "id": 24,
+    "category": "decor",
+    "itemId": "homesa",
+    "shortDescription": "lamp with wooden base",
+    "name": "Homesa",
+    "price": 1200,
+    "image": "img/decor/homesa/1.jpg"
+  },
+  {
+    "id": 25,
+    "category": "decor",
+    "itemId": "ornament",
+    "shortDescription": "wood and epoxy box for jewerly",
+    "name": "Ornament",
+    "price": 1000,
+    "image": "img/decor/ornament/1.jpeg"
+  },
+  {
+    "id": 26,
+    "category": "decor",
+    "itemId": "runduk",
+    "shortDescription": "wooden case",
+    "name": "Runduk",
+    "price": 1700,
+    "image": "img/decor/runduk/1.jpeg"
+  },
+  {
+    "id": 27,
+    "category": "decor",
+    "itemId": "sparkele",
+    "shortDescription": "set of wooden shelves",
+    "name": "Sparkele",
+    "price": 2500,
+    "image": "img/decor/sparkele/2.jpeg"
+  },
+  {
+    "id": 28,
+    "category": "decor",
+    "itemId": "uhidua",
+    "shortDescription": "wooden and ceramic stand",
+    "name": "Uhidua",
+    "price": 1700,
+    "image": "img/decor/uhidua/1.jpeg"
+  },
+  {
+    "id": 29,
+    "category": "decor",
+    "itemId": "versatile",
+    "shortDescription": "wooden shelf on ropes",
+    "name": "Versatile",
+    "price": 1700,
+    "image": "img/decor/versatile/2.jpg"
+  },
+  {
+    "id": 30,
+    "category": "decor",
+    "itemId": "orbit",
+    "shortDescription": "wood and epoxy serving plate",
+    "name": "Orbit",
+    "price": 1700,
+    "image": "img/decor/orbit/1.jpeg"
+  }
+]

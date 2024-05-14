@@ -1,0 +1,251 @@
+[
+  {
+    "id": 7,
+    "category": "decor",
+    "itemId": "darum",
+    "shortDescription": "wood and epoxy box for jewerly",
+    "name": "Darum",
+    "price": 1700,
+    "images": [
+      "img/decor/darum/1.jpeg",
+      "img/decor/darum/2.jpeg",
+      "img/decor/darum/3.jpeg",
+      "img/decor/darum/4.jpeg"
+    ],
+    "description": [
+      {
+        "title": "Perfect Gift",
+        "text": "This wooden product makes a thoughtful and elegant gift for any occasion. Whether it's a birthday, anniversary, wedding, or housewarming, this piece is sure to be appreciated by the recipient. Its classic design and fine craftsmanship make it a gift that will be treasured for years to come. Give the gift of timeless elegance with this beautiful wooden product."
+      },
+      {
+        "title": "Unmatched Beauty",
+        "text": "This wooden product is a true work of art that showcases the natural beauty of wood. Its rich tones and intricate detailing create a stunning visual impact that will enhance any space. Whether it's displayed on its own or used to hold treasured items, this piece is sure to be a focal point in any room. Add a touch of elegance to your home with this exquisite wooden product."
+      },
+      {
+        "title": "Timeless Appeal",
+        "text": "This wooden product has a timeless appeal that transcends trends and fads. Its classic design and fine craftsmanship ensure that it will never go out of style, making it a wise investment for any home. Whether it's displayed in a formal living room or a cozy den, this piece will add a touch of sophistication to any space. Elevate your decor with the timeless elegance of this beautiful wooden product."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "category": "decor",
+    "itemId": "continuum",
+    "shortDescription": "wood and epoxy wall clock",
+    "name": "Continuum",
+    "price": 1000,
+    "images": [
+      "img/decor/continuum/1.jpeg",
+      "img/decor/continuum/2.jpeg",
+      "img/decor/continuum/3.jpeg"
+    ],
+    "description": [
+      {
+        "title": "Perfect Gift",
+        "text": "This wooden product makes a thoughtful and elegant gift for any occasion. Whether it's a birthday, anniversary, wedding, or housewarming, this piece is sure to be appreciated by the recipient. Its classic design and fine craftsmanship make it a gift that will be treasured for years to come. Give the gift of timeless elegance with this beautiful wooden product."
+      },
+      {
+        "title": "Unmatched Beauty",
+        "text": "This wooden product is a true work of art that showcases the natural beauty of wood. Its rich tones and intricate detailing create a stunning visual impact that will enhance any space. Whether it's displayed on its own or used to hold treasured items, this piece is sure to be a focal point in any room. Add a touch of elegance to your home with this exquisite wooden product."
+      },
+      {
+        "title": "Timeless Appeal",
+        "text": "This wooden product has a timeless appeal that transcends trends and fads. Its classic design and fine craftsmanship ensure that it will never go out of style, making it a wise investment for any home. Whether it's displayed in a formal living room or a cozy den, this piece will add a touch of sophistication to any space. Elevate your decor with the timeless elegance of this beautiful wooden product."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "category": "decor",
+    "itemId": "homesa",
+    "shortDescription": "lamp with wooden base",
+    "name": "Homesa",
+    "price": 1200,
+    "images": [
+      "img/decor/homesa/1.jpg",
+      "img/decor/homesa/2.jpg",
+      "img/decor/homesa/3.jpg",
+      "img/decor/homesa/4.jpg"
+    ],
+    "description": [
+      {
+        "title": "Perfect Gift",
+        "text": "This wooden product makes a thoughtful and elegant gift for any occasion. Whether it's a birthday, anniversary, wedding, or housewarming, this piece is sure to be appreciated by the recipient. Its classic design and fine craftsmanship make it a gift that will be treasured for years to come. Give the gift of timeless elegance with this beautiful wooden product."
+      },
+      {
+        "title": "Unmatched Beauty",
+        "text": "This wooden product is a true work of art that showcases the natural beauty of wood. Its rich tones and intricate detailing create a stunning visual impact that will enhance any space. Whether it's displayed on its own or used to hold treasured items, this piece is sure to be a focal point in any room. Add a touch of elegance to your home with this exquisite wooden product."
+      },
+      {
+        "title": "Timeless Appeal",
+        "text": "This wooden product has a timeless appeal that transcends trends and fads. Its classic design and fine craftsmanship ensure that it will never go out of style, making it a wise investment for any home. Whether it's displayed in a formal living room or a cozy den, this piece will add a touch of sophistication to any space. Elevate your decor with the timeless elegance of this beautiful wooden product."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "category": "decor",
+    "itemId": "ornament",
+    "shortDescription": "wood and epoxy box for jewerly",
+    "name": "Ornament",
+    "price": 1000,
+    "images": [
+      "img/decor/ornament/1.jpeg",
+      "img/decor/ornament/2.jpeg",
+      "img/decor/ornament/3.jpeg",
+      "img/decor/ornament/4.jpeg"
+    ],
+    "description": [
+      {
+        "title": "Perfect Gift",
+        "text": "This wooden product makes a thoughtful and elegant gift for any occasion. Whether it's a birthday, anniversary, wedding, or housewarming, this piece is sure to be appreciated by the recipient. Its classic design and fine craftsmanship make it a gift that will be treasured for years to come. Give the gift of timeless elegance with this beautiful wooden product."
+      },
+      {
+        "title": "Unmatched Beauty",
+        "text": "This wooden product is a true work of art that showcases the natural beauty of wood. Its rich tones and intricate detailing create a stunning visual impact that will enhance any space. Whether it's displayed on its own or used to hold treasured items, this piece is sure to be a focal point in any room. Add a touch of elegance to your home with this exquisite wooden product."
+      },
+      {
+        "title": "Timeless Appeal",
+        "text": "This wooden product has a timeless appeal that transcends trends and fads. Its classic design and fine craftsmanship ensure that it will never go out of style, making it a wise investment for any home. Whether it's displayed in a formal living room or a cozy den, this piece will add a touch of sophistication to any space. Elevate your decor with the timeless elegance of this beautiful wooden product."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "category": "decor",
+    "itemId": "runduk",
+    "shortDescription": "wooden case",
+    "name": "Runduk",
+    "price": 1700,
+    "images": [
+      "img/decor/runduk/1.jpeg",
+      "img/decor/runduk/2.jpeg",
+      "img/decor/runduk/3.jpeg",
+      "img/decor/runduk/4.jpeg"
+    ],
+    "description": [
+      {
+        "title": "Perfect Gift",
+        "text": "This wooden product makes a thoughtful and elegant gift for any occasion. Whether it's a birthday, anniversary, wedding, or housewarming, this piece is sure to be appreciated by the recipient. Its classic design and fine craftsmanship make it a gift that will be treasured for years to come. Give the gift of timeless elegance with this beautiful wooden product."
+      },
+      {
+        "title": "Unmatched Beauty",
+        "text": "This wooden product is a true work of art that showcases the natural beauty of wood. Its rich tones and intricate detailing create a stunning visual impact that will enhance any space. Whether it's displayed on its own or used to hold treasured items, this piece is sure to be a focal point in any room. Add a touch of elegance to your home with this exquisite wooden product."
+      },
+      {
+        "title": "Timeless Appeal",
+        "text": "This wooden product has a timeless appeal that transcends trends and fads. Its classic design and fine craftsmanship ensure that it will never go out of style, making it a wise investment for any home. Whether it's displayed in a formal living room or a cozy den, this piece will add a touch of sophistication to any space. Elevate your decor with the timeless elegance of this beautiful wooden product."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "category": "decor",
+    "itemId": "sparkele",
+    "shortDescription": "set of wooden shelves",
+    "name": "Sparkele",
+    "price": 2500,
+    "images": [
+      "img/decor/sparkele/1.jpg",
+      "img/decor/sparkele/2.jpeg",
+      "img/decor/sparkele/3.jpg"
+    ],
+    "description": [
+      {
+        "title": "Perfect Gift",
+        "text": "This wooden product makes a thoughtful and elegant gift for any occasion. Whether it's a birthday, anniversary, wedding, or housewarming, this piece is sure to be appreciated by the recipient. Its classic design and fine craftsmanship make it a gift that will be treasured for years to come. Give the gift of timeless elegance with this beautiful wooden product."
+      },
+      {
+        "title": "Unmatched Beauty",
+        "text": "This wooden product is a true work of art that showcases the natural beauty of wood. Its rich tones and intricate detailing create a stunning visual impact that will enhance any space. Whether it's displayed on its own or used to hold treasured items, this piece is sure to be a focal point in any room. Add a touch of elegance to your home with this exquisite wooden product."
+      },
+      {
+        "title": "Timeless Appeal",
+        "text": "This wooden product has a timeless appeal that transcends trends and fads. Its classic design and fine craftsmanship ensure that it will never go out of style, making it a wise investment for any home. Whether it's displayed in a formal living room or a cozy den, this piece will add a touch of sophistication to any space. Elevate your decor with the timeless elegance of this beautiful wooden product."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "category": "decor",
+    "itemId": "uhidua",
+    "shortDescription": "wooden and ceramic stand",
+    "name": "Uhidua",
+    "price": 1700,
+    "images": [
+      "img/decor/uhidua/1.jpeg",
+      "img/decor/uhidua/2.jpg",
+      "img/decor/uhidua/3.jpg",
+      "img/decor/uhidua/4.jpg"
+    ],
+    "description": [
+      {
+        "title": "Perfect Gift",
+        "text": "This wooden product makes a thoughtful and elegant gift for any occasion. Whether it's a birthday, anniversary, wedding, or housewarming, this piece is sure to be appreciated by the recipient. Its classic design and fine craftsmanship make it a gift that will be treasured for years to come. Give the gift of timeless elegance with this beautiful wooden product."
+      },
+      {
+        "title": "Unmatched Beauty",
+        "text": "This wooden product is a true work of art that showcases the natural beauty of wood. Its rich tones and intricate detailing create a stunning visual impact that will enhance any space. Whether it's displayed on its own or used to hold treasured items, this piece is sure to be a focal point in any room. Add a touch of elegance to your home with this exquisite wooden product."
+      },
+      {
+        "title": "Timeless Appeal",
+        "text": "This wooden product has a timeless appeal that transcends trends and fads. Its classic design and fine craftsmanship ensure that it will never go out of style, making it a wise investment for any home. Whether it's displayed in a formal living room or a cozy den, this piece will add a touch of sophistication to any space. Elevate your decor with the timeless elegance of this beautiful wooden product."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "category": "decor",
+    "itemId": "versatile",
+    "shortDescription": "wooden shelf on ropes",
+    "name": "Versatile",
+    "price": 1700,
+    "images": [
+      "img/decor/versatile/1.jpg",
+      "img/decor/versatile/2.jpg",
+      "img/decor/versatile/3.jpg",
+      "img/decor/versatile/4.jpg"
+    ],
+    "description": [
+      {
+        "title": "Perfect Gift",
+        "text": "This wooden product makes a thoughtful and elegant gift for any occasion. Whether it's a birthday, anniversary, wedding, or housewarming, this piece is sure to be appreciated by the recipient. Its classic design and fine craftsmanship make it a gift that will be treasured for years to come. Give the gift of timeless elegance with this beautiful wooden product."
+      },
+      {
+        "title": "Unmatched Beauty",
+        "text": "This wooden product is a true work of art that showcases the natural beauty of wood. Its rich tones and intricate detailing create a stunning visual impact that will enhance any space. Whether it's displayed on its own or used to hold treasured items, this piece is sure to be a focal point in any room. Add a touch of elegance to your home with this exquisite wooden product."
+      },
+      {
+        "title": "Timeless Appeal",
+        "text": "This wooden product has a timeless appeal that transcends trends and fads. Its classic design and fine craftsmanship ensure that it will never go out of style, making it a wise investment for any home. Whether it's displayed in a formal living room or a cozy den, this piece will add a touch of sophistication to any space. Elevate your decor with the timeless elegance of this beautiful wooden product."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "category": "decor",
+    "itemId": "orbit",
+    "shortDescription": "wood and epoxy serving plate",
+    "name": "Orbit",
+    "price": 1800,
+    "images": [
+      "img/decor/orbit/1.jpeg",
+      "img/decor/orbit/2.jpeg",
+      "img/decor/orbit/3.jpeg",
+      "img/decor/orbit/4.jpeg"
+    ],
+    "description": [
+      {
+        "title": "Perfect Gift",
+        "text": "This wooden product makes a thoughtful and elegant gift for any occasion. Whether it's a birthday, anniversary, wedding, or housewarming, this piece is sure to be appreciated by the recipient. Its classic design and fine craftsmanship make it a gift that will be treasured for years to come. Give the gift of timeless elegance with this beautiful wooden product."
+      },
+      {
+        "title": "Unmatched Beauty",
+        "text": "This wooden product is a true work of art that showcases the natural beauty of wood. Its rich tones and intricate detailing create a stunning visual impact that will enhance any space. Whether it's displayed on its own or used to hold treasured items, this piece is sure to be a focal point in any room. Add a touch of elegance to your home with this exquisite wooden product."
+      },
+      {
+        "title": "Timeless Appeal",
+        "text": "This wooden product has a timeless appeal that transcends trends and fads. Its classic design and fine craftsmanship ensure that it will never go out of style, making it a wise investment for any home. Whether it's displayed in a formal living room or a cozy den, this piece will add a touch of sophistication to any space. Elevate your decor with the timeless elegance of this beautiful wooden product."
+      }
+    ]  }
+]
