@@ -12,9 +12,15 @@ import { handleTitleChange } from '~helpers/functions';
 
 type TBurgerMenuProps = {
   isMenuOpen: boolean;
+  favoriteCount: number;
+  itemsInCartCount: number;
 };
 
-export const BurgerMenu: FC<TBurgerMenuProps> = ({ isMenuOpen }) => {
+export const BurgerMenu: FC<TBurgerMenuProps> = ({ 
+  isMenuOpen, 
+  favoriteCount,
+  itemsInCartCount,
+ }) => {
   const asideStyle = classNames(
     `fixed w-screen h-[calc(100vh-47px)] sm:hidden transition-transform duration-500 top-[47px] bg-white dark:bg-dark-black z-10 pt-[32px] ${styles.after} ${styles.before} dark:after:bg-dark-elements dark:before:bg-dark-elements`,
     {
@@ -35,6 +41,13 @@ export const BurgerMenu: FC<TBurgerMenuProps> = ({ isMenuOpen }) => {
             getStyleLink(activeLink.isActive, 'left-[25%]', '-translate-x-2/4')
           }
         >
+          {!!favoriteCount && (
+            <div className="absolute text-white right-[14px] top-[15px]">
+              <span className="bg-red flex items-center justify-center rounded-full w-[5px] h-[5px] p-[8px] border text-[9px] border-white font-bold">
+                {favoriteCount}
+              </span>
+            </div>
+          )}
           <svg
             width="16"
             height="16"
@@ -57,6 +70,13 @@ export const BurgerMenu: FC<TBurgerMenuProps> = ({ isMenuOpen }) => {
           }
           onClick={() => handleTitleChange('cart')}
         >
+          {!!itemsInCartCount && (
+            <div className="absolute text-white right-[14px] top-[15px]">
+              <span className="bg-red flex items-center justify-center rounded-full w-[5px] h-[5px] p-[8px] border text-[9px] border-white font-bold">
+                {itemsInCartCount}
+              </span>
+            </div>
+          )}
           <svg
             width="16"
             height="16"

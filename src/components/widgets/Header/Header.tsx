@@ -94,8 +94,8 @@ export const Header: FC = () => {
               to="/favourites"
             >
               {!!favoriteCount && (
-                <div className="absolute text-white right-[14px] top-[15px]">
-                  <span className="bg-red flex items-center justify-center rounded-full w-[5px] h-[5px] p-[8px] border text-[9px] border-white font-bold">
+                <div className="absolute text-white right-[7px] top-[10px] lg:right-[14px] lg:top-[15px]">
+                  <span className="bg-red flex items-center justify-center rounded-full w-[1px] h-[1px] lg:w-[5px] lg:h-[1px] p-[6px] border text-[7px] lg:p-[8px] lg:text-[9px] border-white font-bold">
                     {favoriteCount}
                   </span>
                 </div>
@@ -123,8 +123,8 @@ export const Header: FC = () => {
               className={favoriteNCartStyles}
             >
               {!!itemsInCartCount && (
-                <div className="absolute text-white right-[14px] top-[15px]">
-                  <span className="bg-red flex items-center justify-center rounded-full w-[5px] h-[5px] p-[8px] border text-[9px] border-white font-bold">
+                <div className="absolute text-white right-[7px] top-[10px] lg:right-[14px] lg:top-[15px]">
+                  <span className="bg-red flex items-center justify-center rounded-full w-[1px] h-[1px] lg:w-[5px] lg:h-[1px] p-[6px] border text-[7px] lg:p-[8px] lg:text-[9px] border-white font-bold">
                     {itemsInCartCount}
                   </span>
                 </div>
@@ -159,7 +159,11 @@ export const Header: FC = () => {
           </div>
         </div>
       </div>
-      <BurgerMenu isMenuOpen={isMenuOpen} />
+      <BurgerMenu 
+        isMenuOpen={isMenuOpen}
+        favoriteCount={favoriteCount}
+        itemsInCartCount={itemsInCartCount}
+      />
     </header>
   );
 };

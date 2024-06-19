@@ -1,6 +1,7 @@
 /* eslint-disable no-shadow */
 /* eslint-disable max-len */
 import { FC } from 'react';
+import { Link } from 'react-router-dom';
 import { IProduct } from '~types/Product';
 
 type TCartItemProps = {
@@ -56,14 +57,17 @@ export const CartItem: FC<TCartItemProps> = ({
             />
           </svg>
         </button>
+        <Link to={`/${product.category}/${product.itemId}`} className='flex items-center resp-[gap-x/24/24]'>
         <img
           src={image}
           alt={name}
           className="resp-[w-max/80/66] resp-[h-max/80/66]"
         />
         <p className="title-5">{name}</p>
-        </div>
+        </Link>
+      </div>
         <p className="text-right justify-end">{shortDescription}</p>
+
       </div>
       <div className="flex justify-between sm:justify-end items-center sm:resp-[gap-x/24/24]">
         <div className="flex items-center">
